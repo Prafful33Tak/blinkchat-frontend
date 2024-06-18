@@ -14,6 +14,7 @@ Developed a full-featured **chat application**, **BlinkChat** enabling personal 
 - **Chat Features:** Enabled personal and group chat functionalities with **multimedia** (photos, videos, files) **attachment** support.
 - **Group Management:** Added features for creating and managing groups.
 - **Active User Status:** Displayed **online/offline status** of users.
+- **Notifications:** Developed a notification feature allowing users to accept or reject friend requests.
 - **Admin Dashboard:** Developed a dashboard with analytics for users, messages, and groups, including **pagination** and **sorting** features for data tables.
 - **State Management:** Utilised **Redux Toolkit** and **RTK Query** for state management and data fetching.
 - **Cloud Storage:** Integrated **Cloudinary** for cloud-based storage of attachments.
