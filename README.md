@@ -28,7 +28,7 @@ Developed a full-featured **chat application**, **BlinkChat** enabling personal 
 
 
 ## Frontend - 
-GITHUB - [BlinkChat - Backend](https://github.com/Prafful33Tak/blinkchat-backend)
-BlinkChat App - [Deployed link](https://blinkchat-frontend.vercel.app/)
+- GITHUB - [BlinkChat - Backend](https://github.com/Prafful33Tak/blinkchat-backend)
+- BlinkChat App - [Deployed link](https://blinkchat-frontend.vercel.app/)
 
 ## BlinkChat - App Images
