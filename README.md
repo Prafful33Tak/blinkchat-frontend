@@ -46,7 +46,7 @@ Developed a full-featured **chat application**, **BlinkChat** enabling personal 
 
 ## BlinkChat - Admin Dashboard
 ![BlinkChat-AdminDas1](https://github.com/Prafful33Tak/blinkchat-frontend/assets/88709400/3abee732-ed10-4b1f-9520-af1ebe682114)
-![BlinkChat-AdminDas2](https://github.com/Prafful33Tak/blinkchat-frontend/assets/88709400/50d825b6-75ae-412b-9d79-344e4f935215)
+![BlinkChat-AdminDas3](https://github.com/Prafful33Tak/blinkchat-backend/assets/88709400/f1a09daf-47c5-4d50-bb47-c4d6e503ccab)
 ![BlinkChat-AdminUsers](https://github.com/Prafful33Tak/blinkchat-frontend/assets/88709400/45ff7481-a87e-40c2-abd9-c22ab7a7ad5d)
 ![BlinkChat-AdminChats](https://github.com/Prafful33Tak/blinkchat-frontend/assets/88709400/0a3ea8df-7d86-4179-8127-eee090bc4d07)
 ![BlinkChat-AdminMessages](https://github.com/Prafful33Tak/blinkchat-frontend/assets/88709400/4f19a634-2333-4282-8fa2-921a26ff7eb4)
