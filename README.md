@@ -28,7 +28,7 @@ Developed a full-featured **chat application**, **BlinkChat** enabling personal 
 - **Scalable Solution:** Designed a scalable backend with **Websockets** for **real-time communication** and JWT for **secure authentication**.
 
 
-## Frontend - 
+## Backend - 
 - GITHUB - [BlinkChat - Backend](https://github.com/Prafful33Tak/blinkchat-backend)
 - BlinkChat App - [Deployed link](https://blinkchat-frontend.vercel.app/)
 
